@@ -191,7 +191,7 @@ If you use this implementation in your research, please cite:
 @software{reptree,
   title = {REPTree: Decision Trees with Reduced Error Pruning},
   author = {Your Name},
-  year = {2024},
+  year = {2025},
   url = {https://github.com/yourusername/reptree}
 }
 ```
@@ -200,3 +200,4 @@ If you use this implementation in your research, please cite:
 
 - Quinlan, J. R. (1987). Simplifying decision trees. International Journal of Man-Machine Studies, 27(3), 221-234.
 - Breiman, L., Friedman, J., Stone, C. J., & Olshen, R. A. (1984). Classification and Regression Trees. CRC press.
+
