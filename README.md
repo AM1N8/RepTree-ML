@@ -190,9 +190,9 @@ If you use this implementation in your research, please cite:
 ```
 @software{reptree,
   title = {REPTree: Decision Trees with Reduced Error Pruning},
-  author = {Your Name},
+  author = {MohamedAmineDarraj},
   year = {2025},
-  url = {https://github.com/yourusername/reptree}
+  url = {https://github.com/AM1NE/RepTree-ML}
 }
 ```
 
